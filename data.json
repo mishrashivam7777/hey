@@ -1,7 +1,43 @@
+[{
+  "id": 1,
+  "description": "101",
+  "subject": "French 3",
+  "department": "Languages",
+  "alt_subject": "Français 1"
+},
 {
-    "id": 1,
-    "description": "101",
-    "subject": "French 1",
-    "department": "Languages",
-    "alt_subject": "Français 1"
-  }
+  "id": 1,
+  "description": "101",
+  "subject": "French 3",
+  "department": "Languages",
+  "alt_subject": "Français 1"
+},
+{
+  "id": 1,
+  "description": "101",
+  "subject": "French 3",
+  "department": "Languages",
+  "alt_subject": "Français 1"
+},
+{
+  "id": 1,
+  "description": "101",
+  "subject": "French 3",
+  "department": "Languages",
+  "alt_subject": "Français 1"
+},
+{
+  "id": 1,
+  "description": "101",
+  "subject": "French 3",
+  "department": "Languages",
+  "alt_subject": "Français 1"
+},
+{
+  "id": 1,
+  "description": "101",
+  "subject": "French 3",
+  "department": "Languages",
+  "alt_subject": "Français 1"
+}
+]
